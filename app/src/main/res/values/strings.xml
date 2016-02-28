@@ -15,22 +15,22 @@
     <string name="about_disclaimer_message">THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE</string>
     <string name="about_source_title">Source code</string>
     <string name="about_authors">Authors</string>
-    <string name="about_mohammadag">Mohammad Abu-Garbeyyeh</string>
-    <string name="about_rijul">Rijul Ahuja</string>
+    <string name="mohammadag_על ">Mohammad Abu-Garbeyyeh</string>
+    <string name="rijul_על">Rijul Ahuja</string>
 
     <!-- Misc -->
-    <string name="action_settings">Settings</string>
+    <string name="הגדרות">Settings</string>
 
     <!-- Categories -->
     <string name="appearance">Appearance</string>
-    <string name="emergency_button">Emergency Button</string>
+    <string name="כפתור חירום">Emergency Button</string>
 
     <!-- Pattern change -->
-    <string name="enter_new_knock_code">Enter new knock code</string>
+    <string name="הכנס תבנית חדשה">Enter new knock code</string>
     <string name="enter_previous_knock_code">Enter current knock code</string>
-    <string name="confirm_new_knock_code">Confirm new knock code</string>
-    <string name="successfully_changed_code">Code changed successfully</string>
-    <string name="next">Next</string>
+    <string name="אשר את התבנית החדשה">Confirm new knock code</string>
+    <string name="התבנית שונתה בהצלחה">Code changed successfully</string>
+    <string name="הבא">Next</string>
     <string name="retry">Retry</string>
     <string name="size_exceeded">Maximum size exceeded, resetting.</string>
     <string name="pref_description_change_code_pick_size">Choose the size for your pattern</string>
